@@ -1,0 +1,8 @@
+[
+  { "name": "Pizza", "id": 1, "image": "/images/category/pizza.png" },
+  { "name": "Burger", "id": 2, "image": "/images/category/burger.png" },
+  { "name": "Cake", "id": 3, "image": "/images/category/vanilla-cake.png" },
+  { "name": "Sushi", "id": 4, "image": "/images/category/sushi.png" },
+  { "name": "Pasta", "id": 5, "image": "/images/category/pasta.png" },
+  { "name": "Dumpling", "id": 6, "image": "/images/category/dumpling.png" }
+]

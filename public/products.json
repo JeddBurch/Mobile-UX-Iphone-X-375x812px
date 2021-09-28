@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Cheeze Pizza",
+    "id": 1,
+    "category": "Piza",
+    "category_id": 1,
+    "price": 200.0,
+    "image": "/images/pizza-transparent.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity" : 0
+  },
+  {
+    "name": "Veggie Pizza",
+    "id": 2,
+    "category": "Piza",
+    "category_id": 1,
+    "price": 180.0,
+    "image": "/images/pizza/veggie.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Peproni Pizza",
+    "id": 3,
+    "category": "Piza",
+    "category_id": 1,
+    "price": 300.0,
+    "image": "/images/pizza/pepperoni.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "id": 4,
+    "category": "Piza",
+    "category_id": 1,
+    "price": 320.0,
+    "image": "/images/category/pizza.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Ham Burger",
+    "id": 5,
+    "category": "Burger",
+    "category_id": 2,
+    "price": 270.0,
+    "image": "/images/category/burger.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Chicken Burger",
+    "id": 6,
+    "category": "Burger",
+    "category_id": 2,
+    "price": 320.0,
+    "image": "/images/category/burger.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Vanila Cake",
+    "id": 7,
+    "category": "Cake",
+    "category_id": 3,
+    "price": 870.0,
+    "image": "/images/category/vanilla-cake.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Black Forest Cake",
+    "id": 7,
+    "category": "Cake",
+    "category_id": 3,
+    "price": 1200.0,
+    "image": "/images/category/black-forest-cake.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Sushi",
+    "id": 8,
+    "category": "Sushi",
+    "category_id": 4,
+    "price": 200.0,
+    "image": "/images/category/sushi.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Mixed veg Pasta",
+    "id": 9,
+    "category": "Pasta",
+    "category_id": 5,
+    "price": 120.0,
+    "image": "/images/category/pasta.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Non veg Pasta",
+    "id": 10,
+    "category": "Pasta",
+    "category_id": 5,
+    "price": 200.0,
+    "image": "/images/category/pasta.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Steamed Dumpling",
+    "id": 11,
+    "category": "Dumpling",
+    "category_id": 6,
+    "price": 280.0,
+    "image": "/images/category/dumpling.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  },
+  {
+    "name": "Fried Dumpling",
+    "id": 11,
+    "category": "Dumpling",
+    "category_id": 6,
+    "price": 300.0,
+    "image": "/images/category/dumpling.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quasi facilis id odio! Molestiae ratione accusantium itaque inventore nisi facilis delectus maxime",
+    "quantity": 0
+  }
+]
