@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # Mobile-UX-Iphone-X-375x812px
-=======
-# restaurant-menu-app
+# 
 
 ## Project setup
 ```
@@ -25,4 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 76cf2fa (demo version)
+
