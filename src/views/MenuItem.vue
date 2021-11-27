@@ -82,6 +82,9 @@ export default {
         return res.data;
       });
     },
+     someProduct() {
+      this.products++
+    },
     addProduct() {
       this.quantity++
     },
