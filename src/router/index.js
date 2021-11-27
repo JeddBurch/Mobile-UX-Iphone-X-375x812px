@@ -43,6 +43,11 @@ const routes = [{
         name: 'Order',
         component: Order
     },
+                 {
+        path: '/catlog',
+        name: 'Catlog',
+        component: Catlog
+    },
 
 
 ]
